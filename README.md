@@ -4,7 +4,7 @@ Cyberpunk 2088 is a game developed in Python during my second year of high schoo
 
 ## Screenshot
 
-![Cyberpunk 2088](cyberpunk-2088/bilder/Readmeimg.png)
+![Cyberpunk 2088](screenshot.png)
 
 ## How to Play
 
